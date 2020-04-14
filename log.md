@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 13, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got through a starter tutorial on using Nodebots, which is a framework for programming microcontrollers (like Arduino) in Javascript. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** I started this a few days ago and ended up running into issues transferring the code to the arduino, due to the fact I'm working on a macbook with only USB-C ports. I ordered a special cable and tried reformatting an old Mac Mini before I eventually found another cable we had in the house. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+I was really satisfied with getting over this first hurdle and actually getting a couple of working circuits going. I've been meaning to learn hardware hacking for years and had a whole bunch of stuff lying around that I'd bought ambitiously, but was starting from a base of zero knowledge about electronics or microcontrollers. Having completed this task was a great primer for being able to learn momre about electronics and hardware. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Johnny-five, which is the library that makes it possible to do this in node, has a great ecosystem of documentation and example circuitry for each different kind of electrical component, which will also be useful for furture learning.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Repo for Current Nodebot](https://github.com/coderbec/nodebots)
+2. [Youtube tutorial from Jen Tong](https://www.youtube.com/watch?v=-iLO6tCjs4s)
+2. [Project by Rikki Nicks that inspired me](https://github.com/nikkiricks/Sloane-Phone-Node)
